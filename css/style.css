@@ -184,6 +184,13 @@ button {
   background-color: transparent;
 }
 
+.sub-caps {
+  letter-spacing: 3px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
 .link__decor span.line::after {
   content: "";
   position: absolute;
